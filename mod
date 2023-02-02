@@ -1,0 +1,4 @@
+NAME=gzauth
+VERSION=v1.0.49
+MODULE=package
+DESCRIPTION="Container SSH, also support host ssh, alternative openssh server and client"
