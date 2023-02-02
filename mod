@@ -1,4 +1,4 @@
 NAME=gzauth
-VERSION=v1.0.49
+VERSION=v1.0.0
 MODULE=package
-DESCRIPTION="Container SSH, also support host ssh, alternative openssh server and client"
+DESCRIPTION="Easy Auth CLI"
